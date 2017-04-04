@@ -73,3 +73,7 @@ Project title | Description | Demo Link	| Technologies
 ## <a name="ASP">Projects in ASP VB.NET</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
+[Room Booking](https://github.com/adrianeyre/room-booking) | Room booking application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/room-booking) | ASP, VBScript, HTML, CSS, MS SQL Server
+[Virtual Learning Environment](https://github.com/adrianeyre/vle) | VLE application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/vle) | ASP, VBScript, HTML, CSS, MS SQL Server
+[Inventory](https://github.com/adrianeyre/inventory) | Inventory application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/inventory) | ASP, VBScript, HTML, CSS, MS SQL Server
+[First Aid](https://github.com/adrianeyre/first-aid) | First aid application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/first-aid) | ASP, VBScript, HTML, CSS, MS SQL Server
