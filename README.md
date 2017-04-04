@@ -8,6 +8,7 @@
 * [C#](#CSharp)
 * [Coffee Script](#Coffee)
 * [Swift](#Swift)
+* [Python](#Python)
 * [ASP VB.NET](#ASP)
 
 ## <a name="Ruby">Projects in Ruby</a>
@@ -39,10 +40,12 @@ Project title | Description | Demo Link	| Technologies
 --- | --- | --- | ---
 [Thermostat API and JQuery](https://github.com/adrianeyre/thermostat) | Thermostat temparature application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/thermostat) | Javascript, Ruby, Jasmine, JQuery, API, Sinatra, Datamapper, Postgres, HTML, CSS
 [Bowling Challenge](https://github.com/adrianeyre/bowling-challenge) | Web front end bowling challenge | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-bowling.herokuapp.com) | Javascript, Jasmine, Heroku, HTML, CSS
+[AtomicWars](https://github.com/adrianeyre/Atomic-Wars) | Atom package for Codewars | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/Atomic-Wars) | Javascript, Coffeescript, Jasmine, Atom
 [FizzBuzz in Javascript](https://github.com/adrianeyre/fizzbuzz-JS) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-JS) | Javascript, Jasmine
 [Airport Challenge in Javascript](https://github.com/adrianeyre/airport-challenge-JS) |  Project to automate aeroplanes | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-JS) | Javascript, Jasmine
 [Notes App](https://github.com/adrianeyre/notes-app) | Web front end note application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/notes-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
 [News App](https://github.com/adrianeyre/news-app) | Web front end new story application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/news-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
+[Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="CSharp">Projects in C#</a>
 Project title | Description | Demo Link	| Technologies		
@@ -50,16 +53,22 @@ Project title | Description | Demo Link	| Technologies
 [Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball) | Research project on C# | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/roll-a-ball) | C#, Nunit, Unity testing suite
 [Treasure Hunt](https://github.com/adrianeyre/treasure-hunt) | Mobile phone treasure hunt application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/treasure-hunt) | C#, Swift, Javascript, Ruby, Node, Nunit, Unity testing suite, Mocha, Chai, Rpsec, PostgresDB, MongoDB
 [FizzBuzz](https://github.com/adrianeyre/fizzbuzz-CSharp) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-CSharp) | C#, Nunit
+[Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="Coffee">Projects in Coffee Script</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
-[AtomicWars](https://github.com/adrianeyre/Atomic-Wars)
+[AtomicWars](https://github.com/adrianeyre/Atomic-Wars) | Atom package for Codewars | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/Atomic-Wars) | Javascript, Coffeescript, Jasmine, Atom
 
 ## <a name="Swift">Projects in Swift</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
-[Food Tacker in Xcode](https://github.com/adrianeyre/food-tracker)
+[Food Tacker in Xcode](https://github.com/adrianeyre/food-tracker) | Mobile phone food tracker application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/food-tracker) | Swift, Xcode
+
+## <a name="Python">Projects in Python</a>
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="ASP">Projects in ASP VB.NET</a>
 Project title | Description | Demo Link	| Technologies		
