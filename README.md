@@ -13,8 +13,9 @@
 ## <a name="Ruby">Projects in Ruby</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
-[Boris Bikes](https://github.com/adrianeyre/boris-bikes) | Project to store and release bikes |  | Ruby, Rspec
-[Airport Challenge](https://github.com/adrianeyre/airport-challenge) | Project to automate aeroplanes | Ruby, Rspec
+[Boris Bikes](https://github.com/adrianeyre/boris-bikes) | Project to store and release bikes | [github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/boris-bikes) | Ruby, Rspec
+
+[Airport Challenge](https://github.com/adrianeyre/airport-challenge) | Project to automate aeroplanes | [github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/airport-challenge) | Ruby, Rspec
 
 * Paired Programming Project [Oystercard](https://github.com/adrianeyre/oystercard)
 * Solo Weekend Project [Takeaway Challenge](https://github.com/adrianeyre/takeaway-challenge)
