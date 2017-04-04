@@ -11,6 +11,8 @@
 * [ASP VB.NET](#ASP)
 
 ## <a name="Ruby">Projects in Ruby</a>
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
 * Paired Programming Project [Boris Bikes](https://github.com/adrianeyre/boris-bikes)
 * Solo Weekend Project [Airport Challenge](https://github.com/adrianeyre/airport-challenge)
 * Paired Programming Project [Oystercard](https://github.com/adrianeyre/oystercard)
@@ -33,7 +35,9 @@
 * Solo Weekend Challenge [Ruby Refresh](https://github.com/adrianeyre/ruby-refresher)
 
 ## <a name="CSharp">Projects in C#</a>
-* Weekend Research [Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball)
+* [Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball)
+* [Treasure Hunt](https://github.com/adrianeyre/treasure-hunt)
+* FizzBuzz [FizzBuzz]https://github.com/adrianeyre/fizzbuzz-CSharp)
 
 ## <a name="Coffee">Projects in Coffee Script</a>
 * Group Programming Project [AtomicWars](https://github.com/adrianeyre/Atomic-Wars)
