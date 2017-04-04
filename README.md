@@ -13,6 +13,7 @@
 ## <a name="Ruby">Projects in Ruby</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
+[FizzBuzz](https://github.com/adrianeyre/fizzbuzz) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz) | Ruby, Rpsec
 [Boris Bikes](https://github.com/adrianeyre/boris-bikes) | Project to store and release bikes | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/boris-bikes) | Ruby, Rspec
 [Airport Challenge](https://github.com/adrianeyre/airport-challenge) | Project to automate aeroplanes | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/airport-challenge) | Ruby, Rspec
 [Oystercard](https://github.com/adrianeyre/oystercard) | London undergroup Oystercard application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/oystercard) | Ruby, Rspec
@@ -24,23 +25,42 @@ Project title | Description | Demo Link	| Technologies
 [Gilded Rose Tech Test](https://github.com/adrianeyre/gilded-rose-tech-test) | Tech Test | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/gilded-rose-tech-test) | Ruby, Rspec
 [Bank Tech Test](https://github.com/adrianeyre/bank-tech-test) | Tech Tests | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/bank-tech-test) | Ruby, Rspec
 [Tic-Tac-Toe Tech Test](https://github.com/adrianeyre/tic-tac-toe-tech-test) | Tech Test | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/airport-challenge) | Ruby, Rspec
+[Ruby Refresh](https://github.com/adrianeyre/ruby-refresher) | Ruby katas | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/ruby-refresher) | Ruby, Rspec
+[Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="Rails">Projects in Ruby on Rails</a>
-* Paired Programming Project [Yelp](https://github.com/adrianeyre/yelp)
-* Solo Weekend Project [Instagram](https://github.com/adrianeyre/instagram-challenge)
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Yelp](https://github.com/adrianeyre/yelp) | Web front end restaurant review site | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-yelp.herokuapp.com) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
+[Instagram](https://github.com/adrianeyre/instagram-challenge) | Clone of Instagram | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-instagram.herokuapp.com) | Ruby, Javascript, Rspec, Rails, Postgres, SQL, Heroku, Facebook, AWS
 
 ## <a name="Javascript">Projects in JavaScript</a>
-* Group Programming Project [Notes App](https://github.com/adrianeyre/notes-app)
-* Group Programming Project [News App](https://github.com/adrianeyre/news-app)
-* Solo Weekend Challenge [Ruby Refresh](https://github.com/adrianeyre/ruby-refresher)
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Thermostat API and JQuery](https://github.com/adrianeyre/thermostat) | Thermostat temparature application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/thermostat) | Javascript, Ruby, Jasmine, JQuery, API, Sinatra, Datamapper, Postgres, HTML, CSS
+[Bowling Challenge](https://github.com/adrianeyre/bowling-challenge) | Web front end bowling challenge | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-bowling.herokuapp.com) | Javascript, Jasmine, Heroku, HTML, CSS
+[FizzBuzz in Javascript](https://github.com/adrianeyre/fizzbuzz-JS) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-JS) | Javascript, Jasmine
+[Airport Challenge in Javascript](https://github.com/adrianeyre/airport-challenge-JS) |  Project to automate aeroplanes | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-JS) | Javascript, Jasmine
+[Notes App](https://github.com/adrianeyre/notes-app) | Web front end note application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/notes-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
+[News App](https://github.com/adrianeyre/news-app) | Web front end new story application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/news-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
 
 ## <a name="CSharp">Projects in C#</a>
-* [Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball)
-* [Treasure Hunt](https://github.com/adrianeyre/treasure-hunt)
-* FizzBuzz [FizzBuzz]https://github.com/adrianeyre/fizzbuzz-CSharp)
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball) | Research project on C# | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/roll-a-ball) | C#, Nunit, Unity testing suite
+[Treasure Hunt](https://github.com/adrianeyre/treasure-hunt) | Mobile phone treasure hunt application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/treasure-hunt) | C#, Swift, Javascript, Ruby, Node, Nunit, Unity testing suite, Mocha, Chai, Rpsec, PostgresDB, MongoDB
+[FizzBuzz](https://github.com/adrianeyre/fizzbuzz-CSharp) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-CSharp) | C#, Nunit
 
 ## <a name="Coffee">Projects in Coffee Script</a>
-* Group Programming Project [AtomicWars](https://github.com/adrianeyre/Atomic-Wars)
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[AtomicWars](https://github.com/adrianeyre/Atomic-Wars)
 
 ## <a name="Swift">Projects in Swift</a>
-* Weekend Research [Food Tacker in Xcode](https://github.com/adrianeyre/food-tracker)
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Food Tacker in Xcode](https://github.com/adrianeyre/food-tracker)
+
+## <a name="ASP">Projects in ASP VB.NET</a>
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
