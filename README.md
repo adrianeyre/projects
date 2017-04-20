@@ -52,6 +52,7 @@ Project title | Description | Demo Link	| Technologies
 ## <a name="CSharp">Projects in C#</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
+[Pacman](https://github.com/adrianeyre/pacman) | Classic game of Pacman | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/pacman) | C#, Nunit
 [Roll-a-Ball in Unity](https://github.com/adrianeyre/roll-a-ball) | Research project on C# | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/roll-a-ball) | C#, Nunit, Unity testing suite
 [Treasure Hunt](https://github.com/adrianeyre/treasure-hunt) | Mobile phone treasure hunt application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/treasure-hunt) | C#, Swift, Javascript, Ruby, Node, Nunit, Unity testing suite, Mocha, Chai, Rpsec, PostgresDB, MongoDB
 [FizzBuzz](https://github.com/adrianeyre/fizzbuzz-CSharp) | FizzBuzz application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-CSharp) | C#, Nunit
