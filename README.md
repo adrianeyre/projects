@@ -47,6 +47,7 @@ Project title | Description | Demo Link	| Technologies
 [Airport Challenge in Javascript](https://github.com/adrianeyre/airport-challenge-JS) |  Project to automate aeroplanes | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-JS) | Javascript, Jasmine
 [Notes App](https://github.com/adrianeyre/notes-app) | Web front end note application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/notes-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
 [News App](https://github.com/adrianeyre/news-app) | Web front end new story application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/news-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
+[Angular 2 Website](https://github.com/adrianeyre/angular2-website) | Simple website created in Angular 2 Framework | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/angular2-website) | Javascript, Angular 2
 [Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="CSharp">Projects in C#</a>
