@@ -10,6 +10,7 @@
 * [Swift](#Swift)
 * [Python](#Python)
 * [ASP VB.NET](#ASP)
+* [PHP](#PHP)
 
 ## <a name="Ruby">Projects in Ruby</a>
 Project title | Description | Demo Link	| Technologies		
@@ -48,6 +49,7 @@ Project title | Description | Demo Link	| Technologies
 [Notes App](https://github.com/adrianeyre/notes-app) | Web front end note application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/notes-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
 [News App](https://github.com/adrianeyre/news-app) | Web front end new story application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/news-app) | Javascript, Jasmine, Node, HTML, CSS, JSON
 [Angular 2 Website](https://github.com/adrianeyre/angular2-website) | Simple website created in Angular 2 Framework | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/angular2-website) | Javascript, Angular 2
+[React Application](https://github.com/adrianeyre/first-react-app) | Base Application in React | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/first-react-app) | Javascript, React, LESS
 [Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="CSharp">Projects in C#</a>
@@ -72,6 +74,7 @@ Project title | Description | Demo Link	| Technologies
 ## <a name="Python">Projects in Python</a>
 Project title | Description | Demo Link	| Technologies		
 --- | --- | --- | ---
+[FizzBuzz-Python](https://github.com/adrianeyre/fizzbuzz-Python) | Fizz Buzz | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/fizzbuzz-Python) | Python
 [Authored Codewars](https://www.codewars.com/users/adrian.eyre/authored) | Codewars katas that I have authored | [![codewars](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/codewars.png)](https://www.codewars.com/users/adrian.eyre/authored) | Ruby, Javascript, C# and Python
 
 ## <a name="ASP">Projects in ASP VB.NET</a>
@@ -81,3 +84,8 @@ Project title | Description | Demo Link	| Technologies
 [Virtual Learning Environment](https://github.com/adrianeyre/vle) | VLE application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/vle) | ASP, VBScript, HTML, CSS, MS SQL Server
 [Inventory](https://github.com/adrianeyre/inventory) | Inventory application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/inventory) | ASP, VBScript, HTML, CSS, MS SQL Server
 [First Aid](https://github.com/adrianeyre/first-aid) | First aid application | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/first-aid) | ASP, VBScript, HTML, CSS, MS SQL Server
+
+## <a name="PHP">Projects in PHP</a>
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Tic Tac Toe](https://github.com/adrianeyre/tic-tac-toe-refactoring) | Tic Tac Toe - Refactoring Task | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/adrianeyre/tic-tac-toe-refactoring) | PHP, Composer, PHPUnit
