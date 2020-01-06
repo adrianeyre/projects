@@ -4,6 +4,7 @@
 
 * [Ruby](#Ruby)
 * [Ruby on Rails](#Rails)
+* [Typescript](#Typescript)
 * [Javascript](#Javascript)
 * [C#](#CSharp)
 * [Coffee Script](#Coffee)
@@ -37,6 +38,15 @@ Project title | Description | Demo Link	| Technologies
 --- | --- | --- | ---
 [Yelp](https://github.com/adrianeyre/yelp) | Web front end restaurant review site | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-yelp.herokuapp.com) | Ruby, Rspec, Rails, Heroku, HTML, CSS, Postgres, SQL
 [Instagram](https://github.com/adrianeyre/instagram-challenge) | Clone of Instagram | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/heroku.png)](https://adrianeyre-instagram.herokuapp.com) | Ruby, Javascript, Rspec, Rails, Postgres, SQL, Heroku, Facebook, AWS
+
+## <a name="Typescript">Projects in TypeScript</a>
+Project title | Description | Demo Link	| Technologies		
+--- | --- | --- | ---
+[Fishy](https://github.com/adrianeyre/fishy) | Fishy Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/fishy) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Frogger](https://github.com/adrianeyre/frogger) | Frogger Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/frogger) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Space Invaders](https://github.com/adrianeyre/space-invaders) | Space Invaders Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/space-invaders) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Mine Sweeper](https://github.com/adrianeyre/mine-sweeper) | Mine Sweeper Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/mine-sweeper) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Tetris](https://github.com/adrianeyre/tetris) | Tetris Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/tetris) | TypeScript, Jest, Emzyne, HTML, SCSS
 
 ## <a name="Javascript">Projects in JavaScript</a>
 Project title | Description | Demo Link	| Technologies		
