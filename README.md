@@ -52,6 +52,9 @@ Project title | Description | Demo Link	| Technologies
 [Connect 4](https://github.com/adrianeyre/connect4) | Connect 4 Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/connect4) | TypeScript, Jest, Emzyne, HTML, SCSS
 [Ant Run](https://github.com/adrianeyre/ant-run) | Ant Run Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/ant-run) | TypeScript, Jest, Emzyne, HTML, SCSS
 [Pipeline](https://github.com/adrianeyre/pipeline) | Pipeline Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/pipeline) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Racer](https://github.com/adrianeyre/racer) | Racer Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/racer) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Battleships - Game](https://github.com/adrianeyre/battleships-game) | Battleships Game | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/battle-ships) | TypeScript, Jest, Emzyne, HTML, SCSS
+[Battleships - Server](https://github.com/adrianeyre/battleships-server) | Battleships Server | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/demo.png)](http://adrianeyre.co.uk/battle-ships) | TypeScript, Express, Socket.io
 
 ## <a name="Javascript">Projects in JavaScript</a>
 Project title | Description | Demo Link	| Technologies		
